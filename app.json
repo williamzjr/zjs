@@ -1,13 +1,13 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "ZJS-V2",
+    "description": "Deploy ZJS-V2.",
     "keywords": [
-        "V2Ray"
+        "ZJS-V2"
     ],
     "env": {
         "UUID": {
-            "description": "V2Ray UUID",
-            "value": "ce7ea10b-5b27-49ab-a93d-6b184df9cce9"
+            "description": "ZJS-V2 UUID",
+            "value": "ec3d55b7-a2de-48eb-9f8c-2578136b3a69"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
