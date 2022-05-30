@@ -7,7 +7,7 @@
     "env": {
         "UUID": {
             "description": "ZJS-V2 UUID",
-            "value": "ec3d55b7-a2de-48eb-9f8c-2578136b3a69"
+            "value": "e4a89cf7-999d-4fdc-a8a3-a1334f95cc6c"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
