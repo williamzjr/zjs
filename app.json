@@ -1,13 +1,13 @@
 {
-    "name": "ZJS-V2",
-    "description": "Deploy ZJS-V2.",
+    "name": "william-V2",
+    "description": "Deploy william-V2.",
     "keywords": [
-        "ZJS-V2"
+        "william-V2"
     ],
     "env": {
         "UUID": {
-            "description": "ZJS-V2 UUID",
-            "value": "e4a89cf7-999d-4fdc-a8a3-a1334f95cc6c"
+            "description": "william-V2 UUID",
+            "value": "d7e4c170-8034-4f70-ac18-b4bb3a6458c2"
         },
         "TUNNEL_TOKEN": {
             "description": "Cloudflare Tunnel Token",
